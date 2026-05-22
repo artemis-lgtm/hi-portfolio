@@ -1,0 +1,4118 @@
+{
+  "generated_at_utc": "2026-05-22T01:04:05.880317Z",
+  "as_of_date": "2026-05-21",
+  "watchlists": [
+    {
+      "id": "energy",
+      "name": "Energy",
+      "description": "Oil majors, midstream, utilities, nuclear, renewables, and grid-storage. Looking for value + dividend coverage; nuclear sub-bucket weighted to SMR/AI-power-demand thesis.",
+      "tickers": [
+        {
+          "symbol": "XOM",
+          "subsector": "Oil major",
+          "thesis": "Permian + Guyana growth; lowest-cost integrated; 41-yr dividend raise streak.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 155.29,
+          "currency": "USD",
+          "market_cap": 643668836352,
+          "pe": 26.143097,
+          "forward_pe": 14.9004965,
+          "ev_to_ebitda": 12.311,
+          "price_to_book": 2.501893,
+          "debt_to_equity": 18.261,
+          "dividend_yield": 2.64,
+          "beta": 0.183,
+          "fifty_two_week_high": 176.41,
+          "fifty_two_week_low": 101.19,
+          "two_hundred_day_avg": 130.6207,
+          "price_vs_200dma_pct": 18.89,
+          "fcf_yield_pct": 1.81,
+          "return_1y_pct": 54.58,
+          "return_3y_pct": 63.77,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0779,
+              "shares": 322741137
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0654,
+              "shares": 271198613
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.051599998,
+              "shares": 213904380
+            },
+            {
+              "holder": "FMR, LLC",
+              "pct_held": 0.033800002,
+              "shares": 140010460
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.0279,
+              "shares": 115629047
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 1074340.0,
+              "Trans": 26
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 21090.0,
+              "Trans": 7
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 1053250.0,
+              "Trans": 33
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 3564654.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.42200002,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.431,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.008,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "CVX",
+          "subsector": "Oil major",
+          "thesis": "Hess acquisition adds Guyana stake; high FCF, conservative balance sheet.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 191.01,
+          "currency": "USD",
+          "market_cap": 380415049728,
+          "pe": 33.277004,
+          "forward_pe": 15.654272,
+          "ev_to_ebitda": 11.171,
+          "price_to_book": 2.055949,
+          "debt_to_equity": 23.989,
+          "dividend_yield": 3.72,
+          "beta": 0.501,
+          "fifty_two_week_high": 214.71,
+          "fifty_two_week_low": 133.77,
+          "two_hundred_day_avg": 168.8738,
+          "price_vs_200dma_pct": 13.11,
+          "fcf_yield_pct": 3.1,
+          "return_1y_pct": 46.81,
+          "return_3y_pct": 40.55,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.0769,
+              "shares": 153137916
+            },
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0727,
+              "shares": 144720031
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0615,
+              "shares": 122484427
+            },
+            {
+              "holder": "Berkshire Hathaway, Inc",
+              "pct_held": 0.0424,
+              "shares": 84375856
+            },
+            {
+              "holder": "Geode Capital Management, LLC",
+              "pct_held": 0.0219,
+              "shares": 43677102
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 1371781.0,
+              "Trans": 48
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 1946389.0,
+              "Trans": 27
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": -574608.0,
+              "Trans": 75
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 93492880.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": -0.006,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.015,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.021,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "OXY",
+          "subsector": "Oil major",
+          "thesis": "Buffett's repeat buyer; Permian pure-play; carbon-capture optionality.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 58.83,
+          "currency": "USD",
+          "market_cap": 58514362368,
+          "pe": 79.5,
+          "forward_pe": 16.27431,
+          "ev_to_ebitda": 7.41,
+          "price_to_book": 1.9028367,
+          "debt_to_equity": 41.989,
+          "dividend_yield": 1.77,
+          "beta": 0.172,
+          "fifty_two_week_high": 67.45,
+          "fifty_two_week_low": 38.8,
+          "two_hundred_day_avg": 48.0034,
+          "price_vs_200dma_pct": 22.55,
+          "fcf_yield_pct": 5.18,
+          "return_1y_pct": 46.13,
+          "return_3y_pct": 5.13,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Berkshire Hathaway, Inc",
+              "pct_held": 0.26639998,
+              "shares": 264941431
+            },
+            {
+              "holder": "Dodge & Cox Inc.",
+              "pct_held": 0.074499995,
+              "shares": 74085572
+            },
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0529,
+              "shares": 52637811
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0477,
+              "shares": 47412976
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.0435,
+              "shares": 43270797
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 477916.0,
+              "Trans": 24
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 15000000.0,
+              "Trans": 2
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": -14522084.0,
+              "Trans": 26
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 267884960.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": -0.051,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.002,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.053000003,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "EOG",
+          "subsector": "E&P",
+          "thesis": "Best-in-class capital discipline; double-premium drilling inventory.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 139.98,
+          "currency": "USD",
+          "market_cap": 74557341696,
+          "pe": 13.928357,
+          "forward_pe": 9.70441,
+          "ev_to_ebitda": 6.278,
+          "price_to_book": 2.4223022,
+          "debt_to_equity": 26.873,
+          "dividend_yield": 2.88,
+          "beta": 0.279,
+          "fifty_two_week_high": 151.87,
+          "fifty_two_week_low": 101.59,
+          "two_hundred_day_avg": 119.038,
+          "price_vs_200dma_pct": 17.59,
+          "fcf_yield_pct": 3.84,
+          "return_1y_pct": 30.16,
+          "return_3y_pct": 40.41,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Capital World Investors",
+              "pct_held": 0.097399995,
+              "shares": 51890964
+            },
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.083100006,
+              "shares": 44260333
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.065799996,
+              "shares": 35054131
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.0637,
+              "shares": 33921548
+            },
+            {
+              "holder": "JPMORGAN CHASE & CO",
+              "pct_held": 0.0598,
+              "shares": 31843235
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 144224.0,
+              "Trans": 29
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 16069.0,
+              "Trans": 5
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 128155.0,
+              "Trans": 34
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 1507338.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.093,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.105,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.012,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "DVN",
+          "subsector": "E&P",
+          "thesis": "Variable dividend model; Delaware basin core; FCF leverage to crude.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 47.11,
+          "currency": "USD",
+          "market_cap": 54317359104,
+          "pe": 13.498568,
+          "forward_pe": 8.863027,
+          "ev_to_ebitda": 5.387,
+          "price_to_book": 1.8962325,
+          "debt_to_equity": 56.404,
+          "dividend_yield": 2.15,
+          "beta": 0.478,
+          "fifty_two_week_high": 52.71,
+          "fifty_two_week_low": 30.24,
+          "two_hundred_day_avg": 39.55245,
+          "price_vs_200dma_pct": 19.11,
+          "fcf_yield_pct": 2.95,
+          "return_1y_pct": 53.43,
+          "return_3y_pct": 10.1,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.097399995,
+              "shares": 60507488
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.064899996,
+              "shares": 40328127
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.0621,
+              "shares": 38564178
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.0553,
+              "shares": 34336786
+            },
+            {
+              "holder": "Charles Schwab Investment Management, Inc.",
+              "pct_held": 0.0309,
+              "shares": 19171853
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 4409733.0,
+              "Trans": 28
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 94371.0,
+              "Trans": 2
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 4315362.0,
+              "Trans": 30
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 2802514.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": -2.851,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.0,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "PSX",
+          "subsector": "Refining",
+          "thesis": "Refining + midstream + chemicals; mid-cycle FCF underestimated.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 174.05,
+          "currency": "USD",
+          "market_cap": 69782740992,
+          "pe": 17.21563,
+          "forward_pe": 10.6881895,
+          "ev_to_ebitda": 13.197,
+          "price_to_book": 2.3998291,
+          "debt_to_equity": 91.385,
+          "dividend_yield": 2.83,
+          "beta": 0.693,
+          "fifty_two_week_high": 190.61,
+          "fifty_two_week_low": 109.75,
+          "two_hundred_day_avg": 146.3328,
+          "price_vs_200dma_pct": 18.94,
+          "fcf_yield_pct": -1.63,
+          "return_1y_pct": 61.05,
+          "return_3y_pct": 105.77,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0799,
+              "shares": 32024597
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0651,
+              "shares": 26107984
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.0643,
+              "shares": 25772853
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.0551,
+              "shares": 22100692
+            },
+            {
+              "holder": "Elliott Investment Management L.P.",
+              "pct_held": 0.048,
+              "shares": 19251000
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 229151.0,
+              "Trans": 30
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 155817.0,
+              "Trans": 9
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 73334.0,
+              "Trans": 39
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 906113.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.088,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.275,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.187,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "MPC",
+          "subsector": "Refining",
+          "thesis": "Largest US refiner; aggressive buybacks; MPLX dropdown value.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 248.43,
+          "currency": "USD",
+          "market_cap": 72525815808,
+          "pe": 17.004107,
+          "forward_pe": 11.099009,
+          "ev_to_ebitda": 10.857,
+          "price_to_book": 4.3449287,
+          "debt_to_equity": 146.523,
+          "dividend_yield": 1.51,
+          "beta": 0.53,
+          "fifty_two_week_high": 264.14,
+          "fifty_two_week_low": 154.65,
+          "two_hundred_day_avg": 198.44565,
+          "price_vs_200dma_pct": 25.19,
+          "fcf_yield_pct": 4.85,
+          "return_1y_pct": 61.64,
+          "return_3y_pct": 138.8,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0836,
+              "shares": 24394842
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0657,
+              "shares": 19170094
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.0652,
+              "shares": 19025020
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.0537,
+              "shares": 15672113
+            },
+            {
+              "holder": "Geode Capital Management, LLC",
+              "pct_held": 0.026800001,
+              "shares": 7821524
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 41836.0,
+              "Trans": 22
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 10762.0,
+              "Trans": 4
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 31074.0,
+              "Trans": 26
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 940036.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.034,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.046,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.012,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "ET",
+          "subsector": "Midstream",
+          "thesis": "MLP; 8%+ yield, growing distribution, gas/NGL exposure to AI power buildout.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 20.01,
+          "currency": "USD",
+          "market_cap": 68857593856,
+          "pe": 16.815125,
+          "forward_pe": 13.105585,
+          "ev_to_ebitda": 10.06,
+          "price_to_book": 2.2196338,
+          "debt_to_equity": 142.243,
+          "dividend_yield": 6.62,
+          "beta": 0.573,
+          "fifty_two_week_high": 20.7,
+          "fifty_two_week_low": 16.18,
+          "two_hundred_day_avg": 17.8062,
+          "price_vs_200dma_pct": 12.38,
+          "fcf_yield_pct": 2.5,
+          "return_1y_pct": 21.39,
+          "return_3y_pct": 102.55,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Morgan Stanley",
+              "pct_held": 0.0253,
+              "shares": 87230414
+            },
+            {
+              "holder": "Alps Advisors Inc.",
+              "pct_held": 0.025,
+              "shares": 85957579
+            },
+            {
+              "holder": "JPMORGAN CHASE & CO",
+              "pct_held": 0.021,
+              "shares": 72210991
+            },
+            {
+              "holder": "Goldman Sachs Group Inc",
+              "pct_held": 0.0176,
+              "shares": 60419647
+            },
+            {
+              "holder": "Invesco Ltd.",
+              "pct_held": 0.0163,
+              "shares": 56091478
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 353235008,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "EPD",
+          "subsector": "Midstream",
+          "thesis": "MLP; 25-yr distribution growth; best balance sheet among MLPs.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 39.47,
+          "currency": "USD",
+          "market_cap": 85394063360,
+          "pe": 14.618519,
+          "forward_pe": 12.5622635,
+          "ev_to_ebitda": 12.322,
+          "price_to_book": 2.8690848,
+          "debt_to_equity": 113.941,
+          "dividend_yield": 5.56,
+          "beta": 0.495,
+          "fifty_two_week_high": 40.17,
+          "fifty_two_week_low": 30.01,
+          "two_hundred_day_avg": 33.8908,
+          "price_vs_200dma_pct": 16.46,
+          "fcf_yield_pct": null,
+          "return_1y_pct": 32.55,
+          "return_3y_pct": 87.02,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Alps Advisors Inc.",
+              "pct_held": 0.0201,
+              "shares": 43521097
+            },
+            {
+              "holder": "Invesco Ltd.",
+              "pct_held": 0.0123000005,
+              "shares": 26646255
+            },
+            {
+              "holder": "Morgan Stanley",
+              "pct_held": 0.0099,
+              "shares": 21419522
+            },
+            {
+              "holder": "Blackstone Inc",
+              "pct_held": 0.0098,
+              "shares": 21103484
+            },
+            {
+              "holder": "Goldman Sachs Group Inc",
+              "pct_held": 0.0093,
+              "shares": 20090417
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 713035200,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "KMI",
+          "subsector": "Midstream",
+          "thesis": "Largest US gas pipeline; LNG export tailwind; data-center demand.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 33.5,
+          "currency": "USD",
+          "market_cap": 74531667968,
+          "pe": 22.483221,
+          "forward_pe": 21.91763,
+          "ev_to_ebitda": 14.511,
+          "price_to_book": 2.3794303,
+          "debt_to_equity": 98.84,
+          "dividend_yield": 3.5,
+          "beta": 0.564,
+          "fifty_two_week_high": 34.81,
+          "fifty_two_week_low": 25.6,
+          "two_hundred_day_avg": 29.2676,
+          "price_vs_200dma_pct": 14.46,
+          "fcf_yield_pct": 2.21,
+          "return_1y_pct": 27.01,
+          "return_3y_pct": 137.18,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.078200005,
+              "shares": 173959103
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.056399997,
+              "shares": 125501841
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.056199998,
+              "shares": 124953580
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.030299999,
+              "shares": 67321478
+            },
+            {
+              "holder": "Bank of America Corporation",
+              "pct_held": 0.0279,
+              "shares": 62018394
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 13740,
+              "Trans": 3
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 69646,
+              "Trans": 11
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": -55906,
+              "Trans": 14
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 284043520,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "WMB",
+          "subsector": "Midstream",
+          "thesis": "Gas pipelines into Northeast LNG corridor; AI/data-center load growth.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 77.52,
+          "currency": "USD",
+          "market_cap": 94806818816,
+          "pe": 34.14978,
+          "forward_pe": 30.15169,
+          "ev_to_ebitda": 18.526,
+          "price_to_book": 7.4167624,
+          "debt_to_equity": 199.855,
+          "dividend_yield": 2.7,
+          "beta": 0.633,
+          "fifty_two_week_high": 80.08,
+          "fifty_two_week_low": 55.82,
+          "two_hundred_day_avg": 65.0972,
+          "price_vs_200dma_pct": 19.08,
+          "fcf_yield_pct": -0.2,
+          "return_1y_pct": 38.2,
+          "return_3y_pct": 203.43,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0916,
+              "shares": 111870176
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.065,
+              "shares": 79356001
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.0598,
+              "shares": 72988408
+            },
+            {
+              "holder": "Bank of America Corporation",
+              "pct_held": 0.0364,
+              "shares": 44461236
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.0354,
+              "shares": 43269040
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 847914.0,
+              "Trans": 35
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 123869.0,
+              "Trans": 13
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 724045.0,
+              "Trans": 48
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 5491262.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.152,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.17799999,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.025999999,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "NEE",
+          "subsector": "Utility",
+          "thesis": "Largest US renewables operator; FPL regulated utility core.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 89.69,
+          "currency": "USD",
+          "market_cap": 187057946624,
+          "pe": 22.4225,
+          "forward_pe": 20.4195,
+          "ev_to_ebitda": 21.248,
+          "price_to_book": 3.3869567,
+          "debt_to_equity": 156.686,
+          "dividend_yield": 2.82,
+          "beta": 0.721,
+          "fifty_two_week_high": 98.75,
+          "fifty_two_week_low": 63.88,
+          "two_hundred_day_avg": 84.5535,
+          "price_vs_200dma_pct": 6.07,
+          "fcf_yield_pct": -9.87,
+          "return_1y_pct": 29.1,
+          "return_3y_pct": 29.95,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0858,
+              "shares": 178829484
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.064899996,
+              "shares": 135383754
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.0574,
+              "shares": 119667918
+            },
+            {
+              "holder": "JPMORGAN CHASE & CO",
+              "pct_held": 0.0537,
+              "shares": 111988240
+            },
+            {
+              "holder": "Morgan Stanley",
+              "pct_held": 0.0311,
+              "shares": 64751882
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 507956.0,
+              "Trans": 27
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 211869.0,
+              "Trans": 10
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 296087.0,
+              "Trans": 37
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 2398142.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.141,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.24200001,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.101,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "SO",
+          "subsector": "Utility",
+          "thesis": "Vogtle nuclear units online; Southeast demand from data centers.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 94.24,
+          "currency": "USD",
+          "market_cap": 106236854272,
+          "pe": 23.918781,
+          "forward_pe": 19.166002,
+          "ev_to_ebitda": 13.171,
+          "price_to_book": 2.861828,
+          "debt_to_equity": 190.431,
+          "dividend_yield": 3.25,
+          "beta": 0.357,
+          "fifty_two_week_high": 100.84,
+          "fifty_two_week_low": 83.8,
+          "two_hundred_day_avg": 92.62725,
+          "price_vs_200dma_pct": 1.74,
+          "fcf_yield_pct": -3.72,
+          "return_1y_pct": 8.54,
+          "return_3y_pct": 47.62,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0802,
+              "shares": 90368703
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0635,
+              "shares": 71539145
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.0559,
+              "shares": 62980088
+            },
+            {
+              "holder": "Capital World Investors",
+              "pct_held": 0.0499,
+              "shares": 56239873
+            },
+            {
+              "holder": "JPMORGAN CHASE & CO",
+              "pct_held": 0.038399998,
+              "shares": 43337750
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 644331.0,
+              "Trans": 45
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 49392.0,
+              "Trans": 5
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 594939.0,
+              "Trans": 50
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 1093482.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 1.181,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 1.279,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.098000005,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "DUK",
+          "subsector": "Utility",
+          "thesis": "Carolinas/Florida growth; nuclear fleet; data-center load.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 124.66,
+          "currency": "USD",
+          "market_cap": 97184464896,
+          "pe": 19.061163,
+          "forward_pe": 17.39065,
+          "ev_to_ebitda": 11.485,
+          "price_to_book": 1.8133419,
+          "debt_to_equity": 161.495,
+          "dividend_yield": 3.44,
+          "beta": 0.402,
+          "fifty_two_week_high": 134.49,
+          "fifty_two_week_low": 113.39,
+          "two_hundred_day_avg": 124.0735,
+          "price_vs_200dma_pct": 0.47,
+          "fcf_yield_pct": -2.31,
+          "return_1y_pct": 10.8,
+          "return_3y_pct": 50.4,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0889,
+              "shares": 69323870
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0648,
+              "shares": 50526603
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.0571,
+              "shares": 44532642
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.025799999,
+              "shares": 20078558
+            },
+            {
+              "holder": "Geode Capital Management, LLC",
+              "pct_held": 0.0257,
+              "shares": 20047801
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 226995.0,
+              "Trans": 28
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 66547.0,
+              "Trans": 8
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 160448.0,
+              "Trans": 36
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 951107.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.203,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.287,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.084,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "VST",
+          "subsector": "Utility/Nuclear",
+          "thesis": "Independent power producer; nuclear + gas merchant exposure to AI demand.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 149.08,
+          "currency": "USD",
+          "market_cap": 50267160576,
+          "pe": 24.084007,
+          "forward_pe": 13.605604,
+          "ev_to_ebitda": 10.607,
+          "price_to_book": 19.228687,
+          "debt_to_equity": 355.187,
+          "dividend_yield": 0.64,
+          "beta": 1.447,
+          "fifty_two_week_high": 219.82,
+          "fifty_two_week_low": 132.66,
+          "two_hundred_day_avg": 174.62595,
+          "price_vs_200dma_pct": -14.63,
+          "fcf_yield_pct": 0.95,
+          "return_1y_pct": -1.47,
+          "return_3y_pct": 535.23,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0845,
+              "shares": 28480341
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0634,
+              "shares": 21393960
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.050100002,
+              "shares": 16902218
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.0497,
+              "shares": 16770480
+            },
+            {
+              "holder": "FMR, LLC",
+              "pct_held": 0.0469,
+              "shares": 15808007
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 1097755.0,
+              "Trans": 21
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 62721.0,
+              "Trans": 4
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 1035034.0,
+              "Trans": 25
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 2694087.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.624,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.66199994,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.038,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "CEG",
+          "subsector": "Utility/Nuclear",
+          "thesis": "Largest US nuclear fleet; Microsoft Three Mile Island PPA precedent.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 285.83,
+          "currency": "USD",
+          "market_cap": 103238942720,
+          "pe": 24.450813,
+          "forward_pe": 21.069212,
+          "ev_to_ebitda": 15.732,
+          "price_to_book": 3.0932977,
+          "debt_to_equity": 66.428,
+          "dividend_yield": 0.61,
+          "beta": 1.155,
+          "fifty_two_week_high": 412.7,
+          "fifty_two_week_low": 243.3,
+          "two_hundred_day_avg": 324.62543,
+          "price_vs_200dma_pct": -11.95,
+          "fcf_yield_pct": -4.34,
+          "return_1y_pct": 0.08,
+          "return_3y_pct": 262.88,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0651,
+              "shares": 23509199
+            },
+            {
+              "holder": "ECP ControlCo, LLC",
+              "pct_held": 0.061,
+              "shares": 22043724
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0558,
+              "shares": 20138742
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.051999997,
+              "shares": 18796388
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.0416,
+              "shares": 15013945
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 1181091,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "CCJ",
+          "subsector": "Nuclear fuel",
+          "thesis": "Largest pure-play uranium producer; Cameco + Westinghouse stake.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 105.33,
+          "currency": "USD",
+          "market_cap": 45874692096,
+          "pe": 95.75455,
+          "forward_pe": 54.605118,
+          "ev_to_ebitda": 51.209,
+          "price_to_book": 8.928934,
+          "debt_to_equity": 14.311,
+          "dividend_yield": 0.17,
+          "beta": 1.03,
+          "fifty_two_week_high": 135.24,
+          "fifty_two_week_low": 51.7,
+          "two_hundred_day_avg": 99.81755,
+          "price_vs_200dma_pct": 5.52,
+          "fcf_yield_pct": 1.36,
+          "return_1y_pct": 102.29,
+          "return_3y_pct": 288.37,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Mirae Asset Global ETFs Holdings Ltd.",
+              "pct_held": 0.0353,
+              "shares": 15373206
+            },
+            {
+              "holder": "Capital World Investors",
+              "pct_held": 0.0305,
+              "shares": 13262917
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0272,
+              "shares": 11861339
+            },
+            {
+              "holder": "Royal Bank of Canada",
+              "pct_held": 0.022,
+              "shares": 9598933
+            },
+            {
+              "holder": "FMR, LLC",
+              "pct_held": 0.0212,
+              "shares": 9239264
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 631522,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "LEU",
+          "subsector": "Nuclear fuel",
+          "thesis": "Only US HALEU enricher; SMR fuel monopoly thesis.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 177.15,
+          "currency": "USD",
+          "market_cap": 3485035264,
+          "pe": 64.65328,
+          "forward_pe": 44.622166,
+          "ev_to_ebitda": 81.738,
+          "price_to_book": 4.4953938,
+          "debt_to_equity": 152.038,
+          "dividend_yield": null,
+          "beta": 1.436,
+          "fifty_two_week_high": 464.25,
+          "fifty_two_week_low": 90.83,
+          "two_hundred_day_avg": 250.03935,
+          "price_vs_200dma_pct": -29.15,
+          "fcf_yield_pct": -0.31,
+          "return_1y_pct": 89.79,
+          "return_3y_pct": 462.74,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0785,
+              "shares": 1488061
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.074099995,
+              "shares": 1403652
+            },
+            {
+              "holder": "Mirae Asset Global ETFs Holdings Ltd.",
+              "pct_held": 0.0655,
+              "shares": 1240980
+            },
+            {
+              "holder": "Van Eck Associates Corporation",
+              "pct_held": 0.0638,
+              "shares": 1210001
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0424,
+              "shares": 802687
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 9969.0,
+              "Trans": 4
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 306.0,
+              "Trans": 1
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 9663.0,
+              "Trans": 5
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 847110.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.012,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.012,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.0,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "BWXT",
+          "subsector": "Nuclear",
+          "thesis": "Naval reactors + SMR components; defense backlog.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 202.52,
+          "currency": "USD",
+          "market_cap": 18553798656,
+          "pe": 54.005333,
+          "forward_pe": 38.907696,
+          "ev_to_ebitda": 43.177,
+          "price_to_book": 14.490556,
+          "debt_to_equity": 157.623,
+          "dividend_yield": 0.51,
+          "beta": 0.778,
+          "fifty_two_week_high": 241.82,
+          "fifty_two_week_low": 106.22,
+          "two_hundred_day_avg": 194.30585,
+          "price_vs_200dma_pct": 4.23,
+          "fcf_yield_pct": 0.89,
+          "return_1y_pct": 89.64,
+          "return_3y_pct": 211.58,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.1363,
+              "shares": 12487506
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.053400002,
+              "shares": 4891237
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.044699997,
+              "shares": 4094093
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.040900003,
+              "shares": 3748950
+            },
+            {
+              "holder": "JPMORGAN CHASE & CO",
+              "pct_held": 0.028099999,
+              "shares": 2572811
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 91415.0,
+              "Trans": 18
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 25744.0,
+              "Trans": 5
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 65671.0,
+              "Trans": 23
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 331645.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.24700001,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.344,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.096999995,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "SMR",
+          "subsector": "Nuclear SMR",
+          "thesis": "NuScale; first NRC-certified SMR design; pre-revenue, high beta.",
+          "confidence": "speculative",
+          "error": null,
+          "price": 11.33,
+          "currency": "USD",
+          "market_cap": 3921378560,
+          "pe": null,
+          "forward_pe": -19.493145,
+          "ev_to_ebitda": -14.665,
+          "price_to_book": 3.0871935,
+          "debt_to_equity": 0.512,
+          "dividend_yield": null,
+          "beta": 2.252,
+          "fifty_two_week_high": 57.42,
+          "fifty_two_week_low": 8.85,
+          "two_hundred_day_avg": 23.3242,
+          "price_vs_200dma_pct": -51.42,
+          "fcf_yield_pct": -4.13,
+          "return_1y_pct": -52.53,
+          "return_3y_pct": 39.02,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Van Eck Associates Corporation",
+              "pct_held": 0.0579,
+              "shares": 20032960
+            },
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.037100002,
+              "shares": 12849132
+            },
+            {
+              "holder": "Mirae Asset Global ETFs Holdings Ltd.",
+              "pct_held": 0.033099998,
+              "shares": 11452161
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.031600002,
+              "shares": 10948169
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.031,
+              "shares": 10732371
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 1002171.0,
+              "Trans": 10
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 111663648.0,
+              "Trans": 13
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": -110661478.0,
+              "Trans": 23
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 6807901.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": -0.942,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.009,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.951,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "OKLO",
+          "subsector": "Nuclear SMR",
+          "thesis": "Altman-backed micro-reactor; pre-revenue; binary outcome.",
+          "confidence": "speculative",
+          "error": null,
+          "price": 65.09,
+          "currency": "USD",
+          "market_cap": 11325073408,
+          "pe": null,
+          "forward_pe": -76.270485,
+          "ev_to_ebitda": -52.985,
+          "price_to_book": 7.0773077,
+          "debt_to_equity": 0.099,
+          "dividend_yield": null,
+          "beta": 1.181,
+          "fifty_two_week_high": 193.84,
+          "fifty_two_week_low": 35.85,
+          "two_hundred_day_avg": 86.1509,
+          "price_vs_200dma_pct": -24.45,
+          "fcf_yield_pct": -0.88,
+          "return_1y_pct": 76.83,
+          "return_3y_pct": 521.09,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.091400005,
+              "shares": 15907512
+            },
+            {
+              "holder": "Mirae Asset Global ETFs Holdings Ltd.",
+              "pct_held": 0.0509,
+              "shares": 8856496
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.0359,
+              "shares": 6237918
+            },
+            {
+              "holder": "Van Eck Associates Corporation",
+              "pct_held": 0.035,
+              "shares": 6081517
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0335,
+              "shares": 5830933
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 31884435.0,
+              "Trans": 19
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 5006430.0,
+              "Trans": 31
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 26878005.0,
+              "Trans": 50
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 28318772.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 18.65,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 22.123999,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 3.474,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "NNE",
+          "subsector": "Nuclear SMR",
+          "thesis": "Nano Nuclear; micro-reactor R&D; very early.",
+          "confidence": "speculative",
+          "error": null,
+          "price": 25.08,
+          "currency": "USD",
+          "market_cap": 1306249088,
+          "pe": null,
+          "forward_pe": -25.46193,
+          "ev_to_ebitda": -16.427,
+          "price_to_book": 2.192116,
+          "debt_to_equity": 0.437,
+          "dividend_yield": null,
+          "beta": 5.144,
+          "fifty_two_week_high": 60.87,
+          "fifty_two_week_low": 18.93,
+          "two_hundred_day_avg": 31.901575,
+          "price_vs_200dma_pct": -21.38,
+          "fcf_yield_pct": -2.55,
+          "return_1y_pct": -2.41,
+          "return_3y_pct": null,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Van Eck Associates Corporation",
+              "pct_held": 0.057800002,
+              "shares": 3009825
+            },
+            {
+              "holder": "Mirae Asset Global ETFs Holdings Ltd.",
+              "pct_held": 0.057800002,
+              "shares": 3008191
+            },
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0561,
+              "shares": 2919463
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0317,
+              "shares": 1653041
+            },
+            {
+              "holder": "Weiss Asset Management Lp",
+              "pct_held": 0.0202,
+              "shares": 1052756
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 1787500.0,
+              "Trans": 11
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 3985664.0,
+              "Trans": 12
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": -2198164.0,
+              "Trans": 23
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 9746347.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": -0.184,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.15,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.33400002,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "FSLR",
+          "subsector": "Solar",
+          "thesis": "US-made thin-film; IRA tax credit beneficiary; utility-scale backlog.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 248.88,
+          "currency": "USD",
+          "market_cap": 26742992896,
+          "pe": 15.362963,
+          "forward_pe": 10.6357975,
+          "ev_to_ebitda": 10.958,
+          "price_to_book": 2.7071595,
+          "debt_to_equity": 5.943,
+          "dividend_yield": null,
+          "beta": 1.564,
+          "fifty_two_week_high": 285.99,
+          "fifty_two_week_low": 135.5,
+          "two_hundred_day_avg": 224.88895,
+          "price_vs_200dma_pct": 10.67,
+          "fcf_yield_pct": 4.29,
+          "return_1y_pct": 52.34,
+          "return_3y_pct": 18.65,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.1286,
+              "shares": 13821076
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.063200004,
+              "shares": 6788934
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.053000003,
+              "shares": 5696888
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.049200002,
+              "shares": 5284617
+            },
+            {
+              "holder": "Geode Capital Management, LLC",
+              "pct_held": 0.028900001,
+              "shares": 3106826
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 122940.0,
+              "Trans": 61
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 96630.0,
+              "Trans": 55
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 26310.0,
+              "Trans": 116
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 5842239.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.005,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.021,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.017,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "ENPH",
+          "subsector": "Solar",
+          "thesis": "Microinverters; residential solar leverage; cycle-bottom valuation.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 62.34,
+          "currency": "USD",
+          "market_cap": 8216301056,
+          "pe": 52.83051,
+          "forward_pe": 25.55693,
+          "ev_to_ebitda": 44.082,
+          "price_to_book": 7.452481,
+          "debt_to_equity": 55.529,
+          "dividend_yield": null,
+          "beta": 1.254,
+          "fifty_two_week_high": 63.269,
+          "fifty_two_week_low": 25.78,
+          "two_hundred_day_avg": 36.70705,
+          "price_vs_200dma_pct": 69.83,
+          "fcf_yield_pct": 1.12,
+          "return_1y_pct": 31.82,
+          "return_3y_pct": -61.93,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.1685,
+              "shares": 22202913
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.0733,
+              "shares": 9658892
+            },
+            {
+              "holder": "Alyeska Investment Group, L.p.",
+              "pct_held": 0.0444,
+              "shares": 5845629
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.043,
+              "shares": 5667108
+            },
+            {
+              "holder": "Two Sigma Investments, LP",
+              "pct_held": 0.0416,
+              "shares": 5476240
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 177148.0,
+              "Trans": 13
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 294350.0,
+              "Trans": 4
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": -117202.0,
+              "Trans": 17
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 4019846.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": -0.027999999,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.043,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.071,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "TLN",
+          "subsector": "IPP",
+          "thesis": "Talen Energy; Amazon data-center PPA at Susquehanna nuclear.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 360.48,
+          "currency": "USD",
+          "market_cap": 16472136704,
+          "pe": null,
+          "forward_pe": 10.539581,
+          "ev_to_ebitda": 33.878,
+          "price_to_book": 15.068344,
+          "debt_to_equity": 635.415,
+          "dividend_yield": null,
+          "beta": 1.668,
+          "fifty_two_week_high": 451.28,
+          "fifty_two_week_low": 232.34,
+          "two_hundred_day_avg": 371.60315,
+          "price_vs_200dma_pct": -2.99,
+          "fcf_yield_pct": 8.42,
+          "return_1y_pct": 53.14,
+          "return_3y_pct": null,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.069299996,
+              "shares": 4090497
+            },
+            {
+              "holder": "Rubric Capital Management LP",
+              "pct_held": 0.061,
+              "shares": 3602171
+            },
+            {
+              "holder": "MFN Partners Management, LP",
+              "pct_held": 0.0508,
+              "shares": 3000000
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.0355,
+              "shares": 2096199
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0347,
+              "shares": 2046365
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 353627,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "FLR",
+          "subsector": "Nuclear EPC",
+          "thesis": "NuScale parent; engineering for nuclear + LNG; long-cycle backlog.",
+          "confidence": "confirmed",
+          "error": null,
+          "price": 44.59,
+          "currency": "USD",
+          "market_cap": 6227880448,
+          "pe": 20.36073,
+          "forward_pe": 13.519946,
+          "ev_to_ebitda": -10.498,
+          "price_to_book": 2.197851,
+          "debt_to_equity": 36.293,
+          "dividend_yield": null,
+          "beta": 1.333,
+          "fifty_two_week_high": 57.5,
+          "fifty_two_week_low": 37.48,
+          "two_hundred_day_avg": 45.20155,
+          "price_vs_200dma_pct": -1.35,
+          "fcf_yield_pct": 5.54,
+          "return_1y_pct": 17.71,
+          "return_3y_pct": 59.88,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.1508,
+              "shares": 21064850
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.0504,
+              "shares": 7038635
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0482,
+              "shares": 6732647
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.0442,
+              "shares": 6179927
+            },
+            {
+              "holder": "Geode Capital Management, LLC",
+              "pct_held": 0.0358,
+              "shares": 4999116
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 448896.0,
+              "Trans": 33
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 83482.0,
+              "Trans": 10
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 365414.0,
+              "Trans": 43
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 3192853.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.129,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.159,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.03,
+              "Trans": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tesla-confirmed",
+      "name": "Tesla \u2014 Confirmed Suppliers",
+      "description": "Companies named in Tesla's 10-K, earnings calls, or press as direct suppliers. Covers batteries, semis, lithium, ADAS, and casting/structural. Source linked per ticker.",
+      "tickers": [
+        {
+          "symbol": "6752.T",
+          "subsector": "Battery cells",
+          "thesis": "Panasonic (Tokyo listing; ADR PCRFY delisted 2023); Gigafactory Nevada 2170 + 4680 cells.",
+          "confidence": "confirmed",
+          "source": "Tesla 10-K FY2024",
+          "error": null,
+          "price": 3437.0,
+          "currency": "JPY",
+          "market_cap": 8024373067776,
+          "pe": 42.390232,
+          "forward_pe": 20.355345,
+          "ev_to_ebitda": 14.315,
+          "price_to_book": 1.539811,
+          "debt_to_equity": 29.788,
+          "dividend_yield": 1.58,
+          "beta": 0.825,
+          "fifty_two_week_high": 3589.0,
+          "fifty_two_week_low": 1410.5,
+          "two_hundred_day_avg": 2169.6775,
+          "price_vs_200dma_pct": 58.41,
+          "fcf_yield_pct": -2.28,
+          "return_1y_pct": 105.94,
+          "return_3y_pct": 186.76,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Pacer Advisors, Inc.",
+              "pct_held": 0.0,
+              "shares": 40099
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 37308548,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "373220.KS",
+          "subsector": "Battery cells",
+          "thesis": "LG Energy Solution; Shanghai + Berlin cell supplier.",
+          "confidence": "confirmed",
+          "source": "Tesla 10-K FY2024",
+          "error": null,
+          "price": 412500.0,
+          "currency": "KRW",
+          "market_cap": 96407998431232,
+          "pe": null,
+          "forward_pe": 49.484097,
+          "ev_to_ebitda": 24.995,
+          "price_to_book": null,
+          "debt_to_equity": 76.776,
+          "dividend_yield": null,
+          "beta": 1.014,
+          "fifty_two_week_high": 527000.0,
+          "fifty_two_week_low": 266000.0,
+          "two_hundred_day_avg": 405387.5,
+          "price_vs_200dma_pct": 1.75,
+          "fcf_yield_pct": -10.01,
+          "return_1y_pct": 28.3,
+          "return_3y_pct": -30.08,
+          "return_5y_pct": null,
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 186530752,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "300750.SZ",
+          "subsector": "Battery cells",
+          "thesis": "CATL; Shanghai LFP cells; majority of Model 3/Y China.",
+          "confidence": "confirmed",
+          "source": "Tesla 10-K FY2024",
+          "error": null,
+          "price": 411.63,
+          "currency": "CNY",
+          "market_cap": 1904410099712,
+          "pe": 23.468073,
+          "forward_pe": 17.498001,
+          "ev_to_ebitda": 14.47,
+          "price_to_book": 5.216912,
+          "debt_to_equity": 32.084,
+          "dividend_yield": 1.35,
+          "beta": 0.452,
+          "fifty_two_week_high": 468.75,
+          "fifty_two_week_low": 238.03,
+          "two_hundred_day_avg": 375.9887,
+          "price_vs_200dma_pct": 9.48,
+          "fcf_yield_pct": null,
+          "return_1y_pct": 71.59,
+          "return_3y_pct": 106.88,
+          "return_5y_pct": null,
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 1759173632,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "ALB",
+          "subsector": "Lithium",
+          "thesis": "Albemarle; lithium hydroxide long-term supply agreement.",
+          "confidence": "confirmed",
+          "source": "Tesla 2023 supply agreement disclosure",
+          "error": null,
+          "price": 169.9,
+          "currency": "USD",
+          "market_cap": 20037095424,
+          "pe": null,
+          "forward_pe": 15.045251,
+          "ev_to_ebitda": 21.963,
+          "price_to_book": 2.630153,
+          "debt_to_equity": 19.845,
+          "dividend_yield": 0.95,
+          "beta": 1.365,
+          "fifty_two_week_high": 221.0,
+          "fifty_two_week_low": 53.7,
+          "two_hundred_day_avg": 137.47195,
+          "price_vs_200dma_pct": 23.59,
+          "fcf_yield_pct": 3.58,
+          "return_1y_pct": 206.31,
+          "return_3y_pct": -14.54,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Capital World Investors",
+              "pct_held": 0.0834,
+              "shares": 9835390
+            },
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.074099995,
+              "shares": 8734837
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.065,
+              "shares": 7662216
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.0535,
+              "shares": 6315377
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.044299997,
+              "shares": 5224378
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 91928.0,
+              "Trans": 23
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 42322.0,
+              "Trans": 4
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 49606.0,
+              "Trans": 27
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 219358.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.291,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.54,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.249,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "SQM",
+          "subsector": "Lithium",
+          "thesis": "SQM; Chilean brine lithium; long-cycle Tesla exposure via cell makers.",
+          "confidence": "confirmed",
+          "source": "SQM investor day",
+          "error": null,
+          "price": 79.29,
+          "currency": "USD",
+          "market_cap": 22648223744,
+          "pe": null,
+          "forward_pe": 14.206979,
+          "ev_to_ebitda": 18.314,
+          "price_to_book": 3.979423,
+          "debt_to_equity": 59.155,
+          "dividend_yield": 1.27,
+          "beta": 1.028,
+          "fifty_two_week_high": 98.0,
+          "fifty_two_week_low": 29.36,
+          "two_hundred_day_avg": 64.94935,
+          "price_vs_200dma_pct": 22.08,
+          "fcf_yield_pct": 1.9,
+          "return_1y_pct": 139.38,
+          "return_3y_pct": 14.61,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "BAILLIE GIFFORD & CO",
+              "pct_held": 0.04,
+              "shares": 5707211
+            },
+            {
+              "holder": "Van Eck Associates Corporation",
+              "pct_held": 0.020299999,
+              "shares": 2893810
+            },
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.015800001,
+              "shares": 2253100
+            },
+            {
+              "holder": "Earnest Partners LLC",
+              "pct_held": 0.0146,
+              "shares": 2089977
+            },
+            {
+              "holder": "Grantham, Mayo, Van Otterloo & Co. LLC",
+              "pct_held": 0.0117999995,
+              "shares": 1679736
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "SGML",
+          "subsector": "Lithium",
+          "thesis": "Sigma Lithium (Brazil); replacement for Arcadium/Livent (acquired by Rio Tinto Mar-2025).",
+          "confidence": "confirmed",
+          "source": "Sigma offtake disclosures",
+          "error": null,
+          "price": 15.55,
+          "currency": "USD",
+          "market_cap": 1732316288,
+          "pe": null,
+          "forward_pe": 9.688474,
+          "ev_to_ebitda": -406.746,
+          "price_to_book": 30.610235,
+          "debt_to_equity": 189.062,
+          "dividend_yield": null,
+          "beta": null,
+          "fifty_two_week_high": 24.48,
+          "fifty_two_week_low": 4.25,
+          "two_hundred_day_avg": 11.155575,
+          "price_vs_200dma_pct": 39.39,
+          "fcf_yield_pct": 0.88,
+          "return_1y_pct": 183.24,
+          "return_3y_pct": -63.33,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Van Eck Associates Corporation",
+              "pct_held": 0.051,
+              "shares": 5683142
+            },
+            {
+              "holder": "Legal & General Group PLC",
+              "pct_held": 0.024600001,
+              "shares": 2739812
+            },
+            {
+              "holder": "Point72 Asset Management, L.P.",
+              "pct_held": 0.0222,
+              "shares": 2477008
+            },
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0212,
+              "shares": 2358852
+            },
+            {
+              "holder": "Shaw D.E. & Co., Inc.",
+              "pct_held": 0.021,
+              "shares": 2337913
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 4193207,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "NVDA",
+          "subsector": "Compute",
+          "thesis": "Nvidia; Dojo competitor but H100 used for FSD training cluster.",
+          "confidence": "confirmed",
+          "source": "Musk Q4-2023 call",
+          "error": null,
+          "price": 219.51,
+          "currency": "USD",
+          "market_cap": 5316751654912,
+          "pe": 34.24493,
+          "forward_pe": 18.846476,
+          "ev_to_ebitda": 40.375,
+          "price_to_book": 33.91687,
+          "debt_to_equity": 7.255,
+          "dividend_yield": 0.02,
+          "beta": 2.244,
+          "fifty_two_week_high": 236.54,
+          "fifty_two_week_low": 129.16,
+          "two_hundred_day_avg": 186.6466,
+          "price_vs_200dma_pct": 17.61,
+          "fcf_yield_pct": 1.09,
+          "return_1y_pct": 66.59,
+          "return_3y_pct": 628.03,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0795,
+              "shares": 1925533174
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0635,
+              "shares": 1538550382
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.040999997,
+              "shares": 993885601
+            },
+            {
+              "holder": "FMR, LLC",
+              "pct_held": 0.040999997,
+              "shares": 993852968
+            },
+            {
+              "holder": "Geode Capital Management, LLC",
+              "pct_held": 0.0248,
+              "shares": 601327167
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 61528009.0,
+              "Trans": 15
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 2747796.0,
+              "Trans": 22
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 58780213.0,
+              "Trans": 37
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 966896960.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.065,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.068,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.003,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "TSM",
+          "subsector": "Foundry",
+          "thesis": "TSMC; foundry for Tesla Dojo D1 + HW4 inference chips.",
+          "confidence": "confirmed",
+          "source": "Industry disclosure",
+          "error": null,
+          "price": 407.15,
+          "currency": "USD",
+          "market_cap": 2111672811520,
+          "pe": 34.948498,
+          "forward_pe": 20.86159,
+          "ev_to_ebitda": 2.91,
+          "price_to_book": 62.280552,
+          "debt_to_equity": 18.447,
+          "dividend_yield": 0.95,
+          "beta": 1.264,
+          "fifty_two_week_high": 421.97,
+          "fifty_two_week_low": 190.03,
+          "two_hundred_day_avg": 316.1031,
+          "price_vs_200dma_pct": 28.8,
+          "fcf_yield_pct": 34.06,
+          "return_1y_pct": 114.95,
+          "return_3y_pct": 368.31,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "FMR, LLC",
+              "pct_held": 0.0116,
+              "shares": 60393190
+            },
+            {
+              "holder": "Capital World Investors",
+              "pct_held": 0.0063,
+              "shares": 32886937
+            },
+            {
+              "holder": "Sanders Capital, LLC",
+              "pct_held": 0.0054,
+              "shares": 28060092
+            },
+            {
+              "holder": "JPMORGAN CHASE & CO",
+              "pct_held": 0.0046,
+              "shares": 23984642
+            },
+            {
+              "holder": "Van Eck Associates Corporation",
+              "pct_held": 0.0037,
+              "shares": 19262004
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 10632272,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "STM",
+          "subsector": "Power semis",
+          "thesis": "STMicro; SiC MOSFETs for inverters (sole-source on Model 3 originally).",
+          "confidence": "confirmed",
+          "source": "STM 2018 disclosure",
+          "error": null,
+          "price": 65.66,
+          "currency": "USD",
+          "market_cap": 58358222848,
+          "pe": 410.37503,
+          "forward_pe": 29.443947,
+          "ev_to_ebitda": 22.881,
+          "price_to_book": 3.2844784,
+          "debt_to_equity": 15.316,
+          "dividend_yield": 0.55,
+          "beta": 1.513,
+          "fifty_two_week_high": 65.99,
+          "fifty_two_week_low": 21.11,
+          "two_hundred_day_avg": 31.8038,
+          "price_vs_200dma_pct": 106.45,
+          "fcf_yield_pct": -0.62,
+          "return_1y_pct": 163.31,
+          "return_3y_pct": 55.47,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Van Eck Associates Corporation",
+              "pct_held": 0.0128,
+              "shares": 11657593
+            },
+            {
+              "holder": "Citadel Advisors Llc",
+              "pct_held": 0.0076,
+              "shares": 6909118
+            },
+            {
+              "holder": "Slate Path Capital, LP",
+              "pct_held": 0.0067000003,
+              "shares": 6125400
+            },
+            {
+              "holder": "Morgan Stanley",
+              "pct_held": 0.0058999998,
+              "shares": 5345195
+            },
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0054,
+              "shares": 4929704
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "ON",
+          "subsector": "Power semis",
+          "thesis": "OnSemi; SiC supply agreement for traction inverters.",
+          "confidence": "confirmed",
+          "source": "OnSemi 2021 press",
+          "error": null,
+          "price": 109.61,
+          "currency": "USD",
+          "market_cap": 42616717312,
+          "pe": 81.19259,
+          "forward_pe": 25.784704,
+          "ev_to_ebitda": 21.398,
+          "price_to_book": 5.882574,
+          "debt_to_equity": 44.337,
+          "dividend_yield": null,
+          "beta": 1.938,
+          "fifty_two_week_high": 119.1,
+          "fifty_two_week_low": 40.62,
+          "two_hundred_day_avg": 61.4071,
+          "price_vs_200dma_pct": 78.5,
+          "fcf_yield_pct": 3.01,
+          "return_1y_pct": 151.05,
+          "return_3y_pct": 28.0,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "FMR, LLC",
+              "pct_held": 0.14840001,
+              "shares": 58158341
+            },
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.1018,
+              "shares": 39911681
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0654,
+              "shares": 25633199
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.0512,
+              "shares": 20062560
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.0467,
+              "shares": 18307578
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 393502.0,
+              "Trans": 17
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 265974.0,
+              "Trans": 8
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 127528.0,
+              "Trans": 25
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 1308956.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.108,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.33400002,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.225,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "APTV",
+          "subsector": "ADAS/wiring",
+          "thesis": "Aptiv; wiring harness + ADAS components historically.",
+          "confidence": "confirmed",
+          "source": "Aptiv investor materials",
+          "error": null,
+          "price": 55.85,
+          "currency": "USD",
+          "market_cap": 11819005952,
+          "pe": 32.47093,
+          "forward_pe": 8.213561,
+          "ev_to_ebitda": 5.909,
+          "price_to_book": 1.2844986,
+          "debt_to_equity": 103.823,
+          "dividend_yield": null,
+          "beta": 1.308,
+          "fifty_two_week_high": 88.93,
+          "fifty_two_week_low": 51.68,
+          "two_hundred_day_avg": 75.1571,
+          "price_vs_200dma_pct": -25.69,
+          "fcf_yield_pct": 9.23,
+          "return_1y_pct": -16.59,
+          "return_3y_pct": -40.5,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.081,
+              "shares": 19030576
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.059,
+              "shares": 13862462
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.0417,
+              "shares": 9795188
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.038399998,
+              "shares": 9022989
+            },
+            {
+              "holder": "Geode Capital Management, LLC",
+              "pct_held": 0.0248,
+              "shares": 5825677
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 755870.0,
+              "Trans": 26
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 32381.0,
+              "Trans": 4
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 723489.0,
+              "Trans": 30
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 1754334.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": 0.70199996,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.73300004,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.031,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "MGA",
+          "subsector": "Body/seats",
+          "thesis": "Magna; supplied body panels + seats for Model S/X.",
+          "confidence": "confirmed",
+          "source": "Magna disclosure",
+          "error": null,
+          "price": 63.09,
+          "currency": "USD",
+          "market_cap": 17174646784,
+          "pe": 26.620255,
+          "forward_pe": 8.297048,
+          "ev_to_ebitda": 5.38,
+          "price_to_book": 1.4533184,
+          "debt_to_equity": 54.596,
+          "dividend_yield": 3.25,
+          "beta": 1.847,
+          "fifty_two_week_high": 69.94,
+          "fifty_two_week_low": 34.94,
+          "two_hundred_day_avg": 52.64365,
+          "price_vs_200dma_pct": 19.84,
+          "fcf_yield_pct": 12.06,
+          "return_1y_pct": 81.93,
+          "return_3y_pct": 35.98,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Pzena Investment Management LLC",
+              "pct_held": 0.093,
+              "shares": 25329355
+            },
+            {
+              "holder": "Royal Bank of Canada",
+              "pct_held": 0.0379,
+              "shares": 10307648
+            },
+            {
+              "holder": "Hotchkis & Wiley Capital Management, LLC",
+              "pct_held": 0.036199998,
+              "shares": 9844971
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.0297,
+              "shares": 8073797
+            },
+            {
+              "holder": "Bank of Montreal /CAN/",
+              "pct_held": 0.0207,
+              "shares": 5639704
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 16118415,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "IDR.MC",
+          "subsector": "Castings",
+          "thesis": "IDRA (Idra Group); Giga-press supplier for structural castings.",
+          "confidence": "confirmed",
+          "source": "Tesla Battery Day 2020",
+          "error": null,
+          "price": 51.52,
+          "currency": "EUR",
+          "market_cap": 9016927232,
+          "pe": 20.046694,
+          "forward_pe": 16.16958,
+          "ev_to_ebitda": 13.416,
+          "price_to_book": 5.218801,
+          "debt_to_equity": 71.136,
+          "dividend_yield": 0.58,
+          "beta": 0.876,
+          "fifty_two_week_high": 66.15,
+          "fifty_two_week_low": 32.34,
+          "two_hundred_day_avg": 47.42925,
+          "price_vs_200dma_pct": 8.62,
+          "fcf_yield_pct": -3.83,
+          "return_1y_pct": NaN,
+          "return_3y_pct": NaN,
+          "return_5y_pct": NaN,
+          "top_5_holders": [
+            {
+              "holder": "Pacer Advisors, Inc.",
+              "pct_held": 0.0,
+              "shares": 400
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 88253408,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tesla-speculative",
+      "name": "Tesla Optimus \u2014 Speculative Suppliers",
+      "description": "Inferred from teardowns, analyst notes (Morgan Stanley, Goldman, Citi), and Chinese supply-chain reporting. Tesla has NOT published an Optimus BOM. These are educated guesses with binary outcomes \u2014 half of these probably won't pan out. Confidence score per ticker.",
+      "tickers": [
+        {
+          "symbol": "6324.T",
+          "subsector": "Harmonic drives",
+          "thesis": "Harmonic Drive Systems; dominant in precision strain-wave gears for humanoid joints. Cited by Morgan Stanley Optimus note.",
+          "confidence": "speculative",
+          "confidence_score": 7,
+          "source": "Morgan Stanley Optimus note Sep-2024",
+          "error": null,
+          "price": 6760.0,
+          "currency": "JPY",
+          "market_cap": 639947505664,
+          "pe": 396.94656,
+          "forward_pe": 89.31166,
+          "ev_to_ebitda": 62.092,
+          "price_to_book": 7.960555,
+          "debt_to_equity": 22.47,
+          "dividend_yield": 0.31,
+          "beta": 0.934,
+          "fifty_two_week_high": 7380.0,
+          "fifty_two_week_low": 2316.0,
+          "two_hundred_day_avg": 3608.225,
+          "price_vs_200dma_pct": 87.35,
+          "fcf_yield_pct": 0.08,
+          "return_1y_pct": 83.84,
+          "return_3y_pct": 65.97,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Exch TRADED CONCEPTS TRT-ROBO Global Robotics and Automation Index ETF",
+              "pct_held": 0.0099,
+              "shares": 949900
+            },
+            {
+              "holder": "Artisan Partners Funds Inc.-Artisan International Small-Mid Fund",
+              "pct_held": 0.0092,
+              "shares": 889726
+            },
+            {
+              "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
+              "pct_held": 0.0087,
+              "shares": 837735
+            },
+            {
+              "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
+              "pct_held": 0.0057,
+              "shares": 544408
+            },
+            {
+              "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
+              "pct_held": 0.0050999997,
+              "shares": 487600
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 38142284,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "002050.SZ",
+          "subsector": "Thermal/actuators",
+          "thesis": "Sanhua Intelligent Controls; thermal management + linear actuator partner; multiple Chinese press reports of Tesla qualification.",
+          "confidence": "speculative",
+          "confidence_score": 8,
+          "source": "China Daily / 36Kr 2024",
+          "error": null,
+          "price": 52.83,
+          "currency": "CNY",
+          "market_cap": 222309384192,
+          "pe": 52.306934,
+          "forward_pe": 40.602234,
+          "ev_to_ebitda": 33.767,
+          "price_to_book": 6.801854,
+          "debt_to_equity": 12.224,
+          "dividend_yield": 0.7,
+          "beta": 0.866,
+          "fifty_two_week_high": 60.77,
+          "fifty_two_week_low": 23.8,
+          "two_hundred_day_avg": 45.8602,
+          "price_vs_200dma_pct": 15.2,
+          "fcf_yield_pct": 0.68,
+          "return_1y_pct": 97.57,
+          "return_3y_pct": 118.29,
+          "return_5y_pct": null,
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 1850354432,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "601689.SS",
+          "subsector": "Actuators",
+          "thesis": "Tuopu Group; Tesla Model 3/Y supplier, rumored Optimus actuator program.",
+          "confidence": "speculative",
+          "confidence_score": 7,
+          "source": "Chinese broker notes",
+          "error": null,
+          "price": 72.61,
+          "currency": "CNY",
+          "market_cap": 126184235008,
+          "pe": 43.740967,
+          "forward_pe": 31.97622,
+          "ev_to_ebitda": 24.901,
+          "price_to_book": 5.1318116,
+          "debt_to_equity": 19.043,
+          "dividend_yield": 0.67,
+          "beta": 0.82,
+          "fifty_two_week_high": 86.88,
+          "fifty_two_week_low": 43.3,
+          "two_hundred_day_avg": 67.3773,
+          "price_vs_200dma_pct": 7.77,
+          "fcf_yield_pct": -0.25,
+          "return_1y_pct": 40.14,
+          "return_3y_pct": 84.35,
+          "return_5y_pct": null,
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 1016320896,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "SHA0.DE",
+          "subsector": "Bearings",
+          "thesis": "Schaeffler AG (Frankfurt); precision bearings for humanoid joints; named in EU analyst notes.",
+          "confidence": "speculative",
+          "confidence_score": 5,
+          "source": "Citi humanoid note Q1-2025",
+          "error": null,
+          "price": 9.21,
+          "currency": "EUR",
+          "market_cap": 8702388224,
+          "pe": null,
+          "forward_pe": 13.15827,
+          "ev_to_ebitda": 9.577,
+          "price_to_book": 3.0874958,
+          "debt_to_equity": 247.994,
+          "dividend_yield": 3.37,
+          "beta": 1.546,
+          "fifty_two_week_high": 11.98,
+          "fifty_two_week_low": 4.02,
+          "two_hundred_day_avg": 7.680415,
+          "price_vs_200dma_pct": 19.92,
+          "fcf_yield_pct": 7.8,
+          "return_1y_pct": NaN,
+          "return_3y_pct": NaN,
+          "return_5y_pct": NaN,
+          "top_5_holders": [
+            {
+              "holder": "Pacer Advisors, Inc.",
+              "pct_held": 0.0,
+              "shares": 903
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 791700032,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "MP",
+          "subsector": "Rare earths",
+          "thesis": "MP Materials; US rare-earth magnets needed for actuator motors; Tesla published Optimus uses zero rare-earth magnets, so this is a HEDGE AGAINST that being walked back.",
+          "confidence": "speculative",
+          "confidence_score": 3,
+          "source": "Tesla Investor Day 2023 contradicts; included for asymmetry",
+          "error": null,
+          "price": 61.74,
+          "currency": "USD",
+          "market_cap": 10991090688,
+          "pe": null,
+          "forward_pe": 53.015278,
+          "ev_to_ebitda": -2613.886,
+          "price_to_book": 5.5762286,
+          "debt_to_equity": 44.018,
+          "dividend_yield": null,
+          "beta": 1.913,
+          "fifty_two_week_high": 100.251,
+          "fifty_two_week_low": 18.64,
+          "two_hundred_day_avg": 63.10535,
+          "price_vs_200dma_pct": -2.16,
+          "fcf_yield_pct": -1.59,
+          "return_1y_pct": 216.62,
+          "return_3y_pct": 179.49,
+          "return_5y_pct": null,
+          "top_5_holders": [
+            {
+              "holder": "Hancock Prospecting Pty Ltd",
+              "pct_held": 0.083500005,
+              "shares": 14861212
+            },
+            {
+              "holder": "Blackrock Inc.",
+              "pct_held": 0.0828,
+              "shares": 14746925
+            },
+            {
+              "holder": "State Street Corporation",
+              "pct_held": 0.0416,
+              "shares": 7397227
+            },
+            {
+              "holder": "Vanguard Capital Management LLC",
+              "pct_held": 0.038599998,
+              "shares": 6873709
+            },
+            {
+              "holder": "Vanguard Portfolio Management LLC",
+              "pct_held": 0.038,
+              "shares": 6770141
+            }
+          ],
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 258522.0,
+              "Trans": 9
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": 1686252.0,
+              "Trans": 12
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": -1427730.0,
+              "Trans": 21
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 34901248.0,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": -0.039,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": 0.0069999998,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": 0.046,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "300748.SZ",
+          "subsector": "Ball screws",
+          "thesis": "Zhejiang Rongtai; planetary roller screws for linear actuators; Chinese supply-chain reporting.",
+          "confidence": "speculative",
+          "confidence_score": 6,
+          "source": "36Kr / Caixin 2024",
+          "error": null,
+          "price": 33.06,
+          "currency": "CNY",
+          "market_cap": 45476982784,
+          "pe": 61.22222,
+          "forward_pe": 41.92771,
+          "ev_to_ebitda": 44.851,
+          "price_to_book": 5.7989826,
+          "debt_to_equity": 38.303,
+          "dividend_yield": 1.21,
+          "beta": 0.72,
+          "fifty_two_week_high": 47.77,
+          "fifty_two_week_low": 19.65,
+          "two_hundred_day_avg": 35.329,
+          "price_vs_200dma_pct": -6.42,
+          "fcf_yield_pct": 1.17,
+          "return_1y_pct": 55.97,
+          "return_3y_pct": 95.36,
+          "return_5y_pct": null,
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 613055808,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "002056.SZ",
+          "subsector": "Rare-earth magnets",
+          "thesis": "Hengdian Group DMEGC; rare-earth magnet alternative supplier.",
+          "confidence": "speculative",
+          "confidence_score": 4,
+          "source": "Chinese broker notes",
+          "error": null,
+          "price": 19.73,
+          "currency": "CNY",
+          "market_cap": 32095029248,
+          "pe": 17.774775,
+          "forward_pe": 14.194244,
+          "ev_to_ebitda": 8.2,
+          "price_to_book": 2.866899,
+          "debt_to_equity": 28.308,
+          "dividend_yield": 4.22,
+          "beta": 0.468,
+          "fifty_two_week_high": 25.84,
+          "fifty_two_week_low": 12.71,
+          "two_hundred_day_avg": 19.95935,
+          "price_vs_200dma_pct": -1.15,
+          "fcf_yield_pct": 0.74,
+          "return_1y_pct": 49.8,
+          "return_3y_pct": 5.25,
+          "return_5y_pct": null,
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 832772736,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "688192.SS",
+          "subsector": "Vision/sensors",
+          "thesis": "OFILM-adjacent; vision sensor stack candidate; thin evidence.",
+          "confidence": "speculative",
+          "confidence_score": 3,
+          "source": "Industry inference only",
+          "error": null,
+          "price": 57.56,
+          "currency": "CNY",
+          "market_cap": 26774947840,
+          "pe": null,
+          "forward_pe": 69.7697,
+          "ev_to_ebitda": -37.644,
+          "price_to_book": 21.216366,
+          "debt_to_equity": 117.078,
+          "dividend_yield": null,
+          "beta": null,
+          "fifty_two_week_high": 86.18,
+          "fifty_two_week_low": 46.66,
+          "two_hundred_day_avg": 61.79315,
+          "price_vs_200dma_pct": -6.85,
+          "fcf_yield_pct": -2.31,
+          "return_1y_pct": 6.61,
+          "return_3y_pct": 33.4,
+          "return_5y_pct": null,
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 184703248,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "300124.SZ",
+          "subsector": "Servo motors",
+          "thesis": "Inovance Technology; servo drives + motors; large Chinese supplier base.",
+          "confidence": "speculative",
+          "confidence_score": 6,
+          "source": "Chinese broker notes",
+          "error": null,
+          "price": 77.77,
+          "currency": "CNY",
+          "market_cap": 210558025728,
+          "pe": 44.953754,
+          "forward_pe": 28.565655,
+          "ev_to_ebitda": 25.484,
+          "price_to_book": 4.4210105,
+          "debt_to_equity": 8.066,
+          "dividend_yield": 0.53,
+          "beta": 0.514,
+          "fifty_two_week_high": 91.0,
+          "fifty_two_week_low": 60.13,
+          "two_hundred_day_avg": 74.15355,
+          "price_vs_200dma_pct": 4.88,
+          "fcf_yield_pct": 1.08,
+          "return_1y_pct": 10.84,
+          "return_3y_pct": 13.89,
+          "return_5y_pct": null,
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 879427456,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        },
+        {
+          "symbol": "002747.SZ",
+          "subsector": "Reducers",
+          "thesis": "Leaderdrive Technology; harmonic reducer alternative to Harmonic Drive Systems.",
+          "confidence": "speculative",
+          "confidence_score": 6,
+          "source": "Industry analysis",
+          "error": null,
+          "price": 28.7,
+          "currency": "CNY",
+          "market_cap": 27775815680,
+          "pe": 191.33333,
+          "forward_pe": 73.71449,
+          "ev_to_ebitda": 80.125,
+          "price_to_book": 8.577406,
+          "debt_to_equity": 114.109,
+          "dividend_yield": null,
+          "beta": 0.763,
+          "fifty_two_week_high": 28.71,
+          "fifty_two_week_low": 18.35,
+          "two_hundred_day_avg": 23.26965,
+          "price_vs_200dma_pct": 23.34,
+          "fcf_yield_pct": -0.35,
+          "return_1y_pct": 37.06,
+          "return_3y_pct": 4.27,
+          "return_5y_pct": null,
+          "insider_purchases_summary": [
+            {
+              "Insider Purchases Last 6m": "Purchases",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Sales",
+              "Shares": null,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+              "Shares": 0,
+              "Trans": 0
+            },
+            {
+              "Insider Purchases Last 6m": "Total Insider Shares Held",
+              "Shares": 420943936,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Buy Shares",
+              "Shares": null,
+              "Trans": null
+            },
+            {
+              "Insider Purchases Last 6m": "% Sell Shares",
+              "Shares": null,
+              "Trans": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

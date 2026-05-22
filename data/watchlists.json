@@ -1,0 +1,75 @@
+{
+  "updated": "2026-05-21",
+  "watchlists": [
+    {
+      "id": "energy",
+      "name": "Energy",
+      "description": "Oil majors, midstream, utilities, nuclear, renewables, and grid-storage. Looking for value + dividend coverage; nuclear sub-bucket weighted to SMR/AI-power-demand thesis.",
+      "tickers": [
+        { "symbol": "XOM",  "subsector": "Oil major",        "thesis": "Permian + Guyana growth; lowest-cost integrated; 41-yr dividend raise streak.", "confidence": "confirmed" },
+        { "symbol": "CVX",  "subsector": "Oil major",        "thesis": "Hess acquisition adds Guyana stake; high FCF, conservative balance sheet.", "confidence": "confirmed" },
+        { "symbol": "OXY",  "subsector": "Oil major",        "thesis": "Buffett's repeat buyer; Permian pure-play; carbon-capture optionality.", "confidence": "confirmed" },
+        { "symbol": "EOG",  "subsector": "E&P",              "thesis": "Best-in-class capital discipline; double-premium drilling inventory.", "confidence": "confirmed" },
+        { "symbol": "DVN",  "subsector": "E&P",              "thesis": "Variable dividend model; Delaware basin core; FCF leverage to crude.", "confidence": "confirmed" },
+        { "symbol": "PSX",  "subsector": "Refining",         "thesis": "Refining + midstream + chemicals; mid-cycle FCF underestimated.", "confidence": "confirmed" },
+        { "symbol": "MPC",  "subsector": "Refining",         "thesis": "Largest US refiner; aggressive buybacks; MPLX dropdown value.", "confidence": "confirmed" },
+        { "symbol": "ET",   "subsector": "Midstream",        "thesis": "MLP; 8%+ yield, growing distribution, gas/NGL exposure to AI power buildout.", "confidence": "confirmed" },
+        { "symbol": "EPD",  "subsector": "Midstream",        "thesis": "MLP; 25-yr distribution growth; best balance sheet among MLPs.", "confidence": "confirmed" },
+        { "symbol": "KMI",  "subsector": "Midstream",        "thesis": "Largest US gas pipeline; LNG export tailwind; data-center demand.", "confidence": "confirmed" },
+        { "symbol": "WMB",  "subsector": "Midstream",        "thesis": "Gas pipelines into Northeast LNG corridor; AI/data-center load growth.", "confidence": "confirmed" },
+        { "symbol": "NEE",  "subsector": "Utility",          "thesis": "Largest US renewables operator; FPL regulated utility core.", "confidence": "confirmed" },
+        { "symbol": "SO",   "subsector": "Utility",          "thesis": "Vogtle nuclear units online; Southeast demand from data centers.", "confidence": "confirmed" },
+        { "symbol": "DUK",  "subsector": "Utility",          "thesis": "Carolinas/Florida growth; nuclear fleet; data-center load.", "confidence": "confirmed" },
+        { "symbol": "VST",  "subsector": "Utility/Nuclear",  "thesis": "Independent power producer; nuclear + gas merchant exposure to AI demand.", "confidence": "confirmed" },
+        { "symbol": "CEG",  "subsector": "Utility/Nuclear",  "thesis": "Largest US nuclear fleet; Microsoft Three Mile Island PPA precedent.", "confidence": "confirmed" },
+        { "symbol": "CCJ",  "subsector": "Nuclear fuel",     "thesis": "Largest pure-play uranium producer; Cameco + Westinghouse stake.", "confidence": "confirmed" },
+        { "symbol": "LEU",  "subsector": "Nuclear fuel",     "thesis": "Only US HALEU enricher; SMR fuel monopoly thesis.", "confidence": "confirmed" },
+        { "symbol": "BWXT", "subsector": "Nuclear",          "thesis": "Naval reactors + SMR components; defense backlog.", "confidence": "confirmed" },
+        { "symbol": "SMR",  "subsector": "Nuclear SMR",      "thesis": "NuScale; first NRC-certified SMR design; pre-revenue, high beta.", "confidence": "speculative" },
+        { "symbol": "OKLO", "subsector": "Nuclear SMR",      "thesis": "Altman-backed micro-reactor; pre-revenue; binary outcome.", "confidence": "speculative" },
+        { "symbol": "NNE",  "subsector": "Nuclear SMR",      "thesis": "Nano Nuclear; micro-reactor R&D; very early.", "confidence": "speculative" },
+        { "symbol": "FSLR", "subsector": "Solar",            "thesis": "US-made thin-film; IRA tax credit beneficiary; utility-scale backlog.", "confidence": "confirmed" },
+        { "symbol": "ENPH", "subsector": "Solar",            "thesis": "Microinverters; residential solar leverage; cycle-bottom valuation.", "confidence": "confirmed" },
+        { "symbol": "TLN",  "subsector": "IPP",              "thesis": "Talen Energy; Amazon data-center PPA at Susquehanna nuclear.", "confidence": "confirmed" },
+        { "symbol": "FLR",  "subsector": "Nuclear EPC",      "thesis": "NuScale parent; engineering for nuclear + LNG; long-cycle backlog.", "confidence": "confirmed" }
+      ]
+    },
+    {
+      "id": "tesla-confirmed",
+      "name": "Tesla — Confirmed Suppliers",
+      "description": "Companies named in Tesla's 10-K, earnings calls, or press as direct suppliers. Covers batteries, semis, lithium, ADAS, and casting/structural. Source linked per ticker.",
+      "tickers": [
+        { "symbol": "6752.T", "subsector": "Battery cells",    "thesis": "Panasonic (Tokyo listing; ADR PCRFY delisted 2023); Gigafactory Nevada 2170 + 4680 cells.", "confidence": "confirmed", "source": "Tesla 10-K FY2024" },
+        { "symbol": "373220.KS","subsector": "Battery cells",  "thesis": "LG Energy Solution; Shanghai + Berlin cell supplier.", "confidence": "confirmed", "source": "Tesla 10-K FY2024" },
+        { "symbol": "300750.SZ","subsector": "Battery cells",  "thesis": "CATL; Shanghai LFP cells; majority of Model 3/Y China.", "confidence": "confirmed", "source": "Tesla 10-K FY2024" },
+        { "symbol": "ALB",   "subsector": "Lithium",           "thesis": "Albemarle; lithium hydroxide long-term supply agreement.", "confidence": "confirmed", "source": "Tesla 2023 supply agreement disclosure" },
+        { "symbol": "SQM",   "subsector": "Lithium",           "thesis": "SQM; Chilean brine lithium; long-cycle Tesla exposure via cell makers.", "confidence": "confirmed", "source": "SQM investor day" },
+        { "symbol": "SGML",  "subsector": "Lithium",           "thesis": "Sigma Lithium (Brazil); replacement for Arcadium/Livent (acquired by Rio Tinto Mar-2025).", "confidence": "confirmed", "source": "Sigma offtake disclosures" },
+        { "symbol": "NVDA",  "subsector": "Compute",           "thesis": "Nvidia; Dojo competitor but H100 used for FSD training cluster.", "confidence": "confirmed", "source": "Musk Q4-2023 call" },
+        { "symbol": "TSM",   "subsector": "Foundry",           "thesis": "TSMC; foundry for Tesla Dojo D1 + HW4 inference chips.", "confidence": "confirmed", "source": "Industry disclosure" },
+        { "symbol": "STM",   "subsector": "Power semis",       "thesis": "STMicro; SiC MOSFETs for inverters (sole-source on Model 3 originally).", "confidence": "confirmed", "source": "STM 2018 disclosure" },
+        { "symbol": "ON",    "subsector": "Power semis",       "thesis": "OnSemi; SiC supply agreement for traction inverters.", "confidence": "confirmed", "source": "OnSemi 2021 press" },
+        { "symbol": "APTV",  "subsector": "ADAS/wiring",       "thesis": "Aptiv; wiring harness + ADAS components historically.", "confidence": "confirmed", "source": "Aptiv investor materials" },
+        { "symbol": "MGA",   "subsector": "Body/seats",        "thesis": "Magna; supplied body panels + seats for Model S/X.", "confidence": "confirmed", "source": "Magna disclosure" },
+        { "symbol": "IDR.MC","subsector": "Castings",          "thesis": "IDRA (Idra Group); Giga-press supplier for structural castings.", "confidence": "confirmed", "source": "Tesla Battery Day 2020" }
+      ]
+    },
+    {
+      "id": "tesla-speculative",
+      "name": "Tesla Optimus — Speculative Suppliers",
+      "description": "Inferred from teardowns, analyst notes (Morgan Stanley, Goldman, Citi), and Chinese supply-chain reporting. Tesla has NOT published an Optimus BOM. These are educated guesses with binary outcomes — half of these probably won't pan out. Confidence score per ticker.",
+      "tickers": [
+        { "symbol": "6324.T",  "subsector": "Harmonic drives",   "thesis": "Harmonic Drive Systems; dominant in precision strain-wave gears for humanoid joints. Cited by Morgan Stanley Optimus note.", "confidence": "speculative", "confidence_score": 7, "source": "Morgan Stanley Optimus note Sep-2024" },
+        { "symbol": "002050.SZ","subsector": "Thermal/actuators","thesis": "Sanhua Intelligent Controls; thermal management + linear actuator partner; multiple Chinese press reports of Tesla qualification.", "confidence": "speculative", "confidence_score": 8, "source": "China Daily / 36Kr 2024" },
+        { "symbol": "601689.SS","subsector": "Actuators",        "thesis": "Tuopu Group; Tesla Model 3/Y supplier, rumored Optimus actuator program.", "confidence": "speculative", "confidence_score": 7, "source": "Chinese broker notes" },
+        { "symbol": "SHA0.DE", "subsector": "Bearings",         "thesis": "Schaeffler AG (Frankfurt); precision bearings for humanoid joints; named in EU analyst notes.", "confidence": "speculative", "confidence_score": 5, "source": "Citi humanoid note Q1-2025" },
+        { "symbol": "MP",      "subsector": "Rare earths",       "thesis": "MP Materials; US rare-earth magnets needed for actuator motors; Tesla published Optimus uses zero rare-earth magnets, so this is a HEDGE AGAINST that being walked back.", "confidence": "speculative", "confidence_score": 3, "source": "Tesla Investor Day 2023 contradicts; included for asymmetry" },
+        { "symbol": "300748.SZ","subsector": "Ball screws",      "thesis": "Zhejiang Rongtai; planetary roller screws for linear actuators; Chinese supply-chain reporting.", "confidence": "speculative", "confidence_score": 6, "source": "36Kr / Caixin 2024" },
+        { "symbol": "002056.SZ","subsector": "Rare-earth magnets","thesis": "Hengdian Group DMEGC; rare-earth magnet alternative supplier.", "confidence": "speculative", "confidence_score": 4, "source": "Chinese broker notes" },
+        { "symbol": "688192.SS","subsector": "Vision/sensors",   "thesis": "OFILM-adjacent; vision sensor stack candidate; thin evidence.", "confidence": "speculative", "confidence_score": 3, "source": "Industry inference only" },
+        { "symbol": "300124.SZ","subsector": "Servo motors",     "thesis": "Inovance Technology; servo drives + motors; large Chinese supplier base.", "confidence": "speculative", "confidence_score": 6, "source": "Chinese broker notes" },
+        { "symbol": "002747.SZ","subsector": "Reducers",         "thesis": "Leaderdrive Technology; harmonic reducer alternative to Harmonic Drive Systems.", "confidence": "speculative", "confidence_score": 6, "source": "Industry analysis" }
+      ]
+    }
+  ]
+}

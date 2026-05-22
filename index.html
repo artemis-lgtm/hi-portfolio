@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>HI Portfolio — Energy + Tesla supply chain</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif; }
+  .conf-confirmed   { background: #ecfdf5; color: #047857; border-color: #10b981; }
+  .conf-speculative { background: #fef3c7; color: #92400e; border-color: #f59e0b; }
+  details[open] summary .chev { transform: rotate(90deg); }
+  .chev { transition: transform 0.15s ease; display: inline-block; }
+  .num-pos { color: #047857; }
+  .num-neg { color: #b91c1c; }
+</style>
+</head>
+<body class="bg-slate-50 text-slate-900 min-h-screen">
+
+<div x-data="portfolioApp()" x-init="load()" class="max-w-7xl mx-auto p-6">
+
+  <header class="mb-6">
+    <h1 class="text-3xl font-bold tracking-tight">HI Portfolio</h1>
+    <p class="text-slate-500 mt-1">Energy + Tesla supply-chain watchlists. <span x-text="updated"></span> · <span x-text="filteredCount"></span> of <span x-text="totalCount"></span> shown</p>
+  </header>
+
+  <div class="bg-white border border-slate-200 rounded-lg p-4 mb-6 flex flex-wrap gap-3 items-center">
+    <input x-model="search" placeholder="search symbol, subsector, thesis..." class="flex-1 min-w-[200px] px-3 py-2 border border-slate-300 rounded-md text-sm" />
+
+    <select x-model="filterWatchlist" class="px-3 py-2 border border-slate-300 rounded-md text-sm">
+      <option value="">All watchlists</option>
+      <template x-for="wl in watchlists" :key="wl.id">
+        <option :value="wl.id" x-text="wl.name"></option>
+      </template>
+    </select>
+
+    <select x-model="filterConfidence" class="px-3 py-2 border border-slate-300 rounded-md text-sm">
+      <option value="">All confidence</option>
+      <option value="confirmed">Confirmed only</option>
+      <option value="speculative">Speculative only</option>
+    </select>
+
+    <select x-model="sortBy" class="px-3 py-2 border border-slate-300 rounded-md text-sm">
+      <option value="symbol">Sort by symbol</option>
+      <option value="market_cap">Sort by market cap</option>
+      <option value="pe">Sort by P/E</option>
+      <option value="fcf_yield_pct">Sort by FCF yield</option>
+      <option value="return_1y_pct">Sort by 1Y return</option>
+      <option value="dividend_yield">Sort by dividend yield</option>
+    </select>
+  </div>
+
+  <template x-for="wl in filteredWatchlists" :key="wl.id">
+    <section class="mb-8">
+      <div class="mb-3">
+        <h2 class="text-xl font-bold" x-text="wl.name"></h2>
+        <p class="text-sm text-slate-500" x-text="wl.description"></p>
+      </div>
+
+      <div class="space-y-2">
+        <template x-for="t in sortedTickers(wl.tickers)" :key="t.symbol">
+          <details class="bg-white border border-slate-200 rounded-lg group">
+            <summary class="cursor-pointer p-4 flex items-start gap-4 hover:bg-slate-50 select-none">
+              <span class="chev text-slate-400 mt-1">▸</span>
+
+              <div class="flex-1 min-w-0">
+                <div class="flex items-center gap-2 flex-wrap">
+                  <span class="font-mono font-bold text-lg" x-text="t.symbol"></span>
+                  <span class="text-xs px-2 py-0.5 rounded border"
+                        :class="'conf-' + t.confidence"
+                        x-text="t.confidence + (t.confidence_score ? ' (' + t.confidence_score + '/10)' : '')"></span>
+                  <span class="text-xs px-2 py-0.5 rounded bg-slate-100 text-slate-600" x-text="t.subsector"></span>
+                  <span x-show="t.currency && t.currency !== 'USD'" class="text-xs px-2 py-0.5 rounded bg-blue-50 text-blue-700" x-text="t.currency"></span>
+                </div>
+                <p class="text-sm text-slate-700 mt-2" x-text="t.thesis"></p>
+
+                <div class="grid grid-cols-2 md:grid-cols-6 gap-3 mt-3 text-sm">
+                  <div>
+                    <div class="text-xs text-slate-500">Price</div>
+                    <div class="font-semibold" x-text="fmtPrice(t.price, t.currency)"></div>
+                  </div>
+                  <div>
+                    <div class="text-xs text-slate-500">Mkt Cap</div>
+                    <div class="font-semibold" x-text="fmtCap(t.market_cap)"></div>
+                  </div>
+                  <div>
+                    <div class="text-xs text-slate-500">P/E</div>
+                    <div class="font-semibold" x-text="fmtNum(t.pe, 1)"></div>
+                  </div>
+                  <div>
+                    <div class="text-xs text-slate-500">FCF Yld</div>
+                    <div class="font-semibold" x-text="t.fcf_yield_pct != null ? t.fcf_yield_pct + '%' : '—'"></div>
+                  </div>
+                  <div>
+                    <div class="text-xs text-slate-500">1Y</div>
+                    <div :class="signClass(t.return_1y_pct)" class="font-semibold" x-text="fmtPct(t.return_1y_pct)"></div>
+                  </div>
+                  <div>
+                    <div class="text-xs text-slate-500">Div Yld</div>
+                    <div class="font-semibold" x-text="fmtPct((t.dividend_yield || 0) * 100)"></div>
+                  </div>
+                </div>
+              </div>
+            </summary>
+
+            <div class="px-4 pb-4 pt-2 border-t border-slate-100 space-y-3 text-sm">
+
+              <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+                <div><span class="text-xs text-slate-500">Fwd P/E:</span> <span x-text="fmtNum(t.forward_pe, 1)"></span></div>
+                <div><span class="text-xs text-slate-500">EV/EBITDA:</span> <span x-text="fmtNum(t.ev_to_ebitda, 1)"></span></div>
+                <div><span class="text-xs text-slate-500">P/B:</span> <span x-text="fmtNum(t.price_to_book, 2)"></span></div>
+                <div><span class="text-xs text-slate-500">D/E:</span> <span x-text="fmtNum(t.debt_to_equity, 1)"></span></div>
+                <div><span class="text-xs text-slate-500">Beta:</span> <span x-text="fmtNum(t.beta, 2)"></span></div>
+                <div><span class="text-xs text-slate-500">3Y:</span> <span :class="signClass(t.return_3y_pct)" x-text="fmtPct(t.return_3y_pct)"></span></div>
+                <div><span class="text-xs text-slate-500">5Y:</span> <span :class="signClass(t.return_5y_pct)" x-text="fmtPct(t.return_5y_pct)"></span></div>
+                <div><span class="text-xs text-slate-500">vs 200DMA:</span> <span :class="signClass(t.price_vs_200dma_pct)" x-text="fmtPct(t.price_vs_200dma_pct)"></span></div>
+              </div>
+
+              <div x-show="t.top_5_holders && t.top_5_holders.length">
+                <div class="text-xs font-medium uppercase tracking-wide text-slate-500 mb-1">Top 5 institutional holders</div>
+                <ul class="text-xs space-y-1">
+                  <template x-for="h in t.top_5_holders" :key="h.holder">
+                    <li><span x-text="h.holder"></span> — <span x-text="((h.pct_held || 0) * 100).toFixed(2) + '%'"></span></li>
+                  </template>
+                </ul>
+              </div>
+
+              <div x-show="t.source">
+                <div class="text-xs font-medium uppercase tracking-wide text-slate-500 mb-1">Source</div>
+                <p class="text-xs text-slate-600" x-text="t.source"></p>
+              </div>
+
+              <div x-show="t.error" class="text-xs text-red-700 bg-red-50 p-2 rounded">
+                Fetch error: <span x-text="t.error"></span>
+              </div>
+            </div>
+          </details>
+        </template>
+      </div>
+    </section>
+  </template>
+
+  <footer class="mt-8 text-center text-xs text-slate-400">
+    Data via yfinance / SEC EDGAR. Refresh by running scripts/refresh.py. Speculative tickers are inferred from analyst notes + supply-chain reporting; Tesla has not disclosed an Optimus BOM.
+  </footer>
+</div>
+
+<script>
+function portfolioApp() {
+  return {
+    watchlists: [],
+    updated: '',
+    search: '',
+    filterWatchlist: '',
+    filterConfidence: '',
+    sortBy: 'symbol',
+
+    async load() {
+      const res = await fetch('data/snapshot-latest.json?v=' + Date.now());
+      const data = await res.json();
+      this.watchlists = data.watchlists;
+      this.updated = 'As of ' + data.as_of_date;
+    },
+
+    get filteredWatchlists() {
+      return this.watchlists
+        .filter(wl => !this.filterWatchlist || wl.id === this.filterWatchlist)
+        .map(wl => ({ ...wl, tickers: wl.tickers.filter(t => this.matchesFilter(t)) }))
+        .filter(wl => wl.tickers.length > 0);
+    },
+
+    matchesFilter(t) {
+      if (this.filterConfidence && t.confidence !== this.filterConfidence) return false;
+      if (this.search) {
+        const q = this.search.toLowerCase();
+        const hay = (t.symbol + ' ' + t.subsector + ' ' + t.thesis).toLowerCase();
+        if (!hay.includes(q)) return false;
+      }
+      return true;
+    },
+
+    sortedTickers(arr) {
+      const key = this.sortBy;
+      return [...arr].sort((a, b) => {
+        if (key === 'symbol') return a.symbol.localeCompare(b.symbol);
+        const av = a[key], bv = b[key];
+        if (av == null && bv == null) return 0;
+        if (av == null) return 1;
+        if (bv == null) return -1;
+        return bv - av;
+      });
+    },
+
+    get totalCount() { return this.watchlists.reduce((n, wl) => n + wl.tickers.length, 0); },
+    get filteredCount() { return this.filteredWatchlists.reduce((n, wl) => n + wl.tickers.length, 0); },
+
+    fmtPrice(p, ccy) { return p != null ? (ccy && ccy !== 'USD' ? ccy + ' ' : '$') + p.toFixed(2) : '—'; },
+    fmtCap(c) {
+      if (c == null) return '—';
+      if (c >= 1e12) return '$' + (c / 1e12).toFixed(2) + 'T';
+      if (c >= 1e9)  return '$' + (c / 1e9).toFixed(1) + 'B';
+      if (c >= 1e6)  return '$' + (c / 1e6).toFixed(0) + 'M';
+      return '$' + c;
+    },
+    fmtNum(n, d) { return n != null ? n.toFixed(d) : '—'; },
+    fmtPct(n) { return n != null ? n.toFixed(1) + '%' : '—'; },
+    signClass(n) { if (n == null) return ''; return n >= 0 ? 'num-pos' : 'num-neg'; },
+  };
+}
+</script>
+
+</body>
+</html>
