@@ -23,6 +23,8 @@
   <header class="mb-6">
     <h1 class="text-3xl font-bold tracking-tight">HI Portfolio</h1>
     <p class="text-slate-500 mt-1">Energy + Tesla supply-chain watchlists. <span x-text="updated"></span> · <span x-text="filteredCount"></span> of <span x-text="totalCount"></span> shown</p>
+    <p x-show="loading" class="text-sm text-slate-400 mt-2">Loading snapshot…</p>
+    <p x-show="loadError" class="text-sm text-red-700 bg-red-50 p-2 rounded mt-2" x-text="loadError"></p>
   </header>
 
   <div class="bg-white border border-slate-200 rounded-lg p-4 mb-6 flex flex-wrap gap-3 items-center">
@@ -155,12 +157,23 @@ function portfolioApp() {
     filterWatchlist: '',
     filterConfidence: '',
     sortBy: 'symbol',
+    loading: true,
+    loadError: '',
 
     async load() {
-      const res = await fetch('data/snapshot-latest.json?v=' + Date.now());
-      const data = await res.json();
-      this.watchlists = data.watchlists;
-      this.updated = 'As of ' + data.as_of_date;
+      this.loading = true;
+      this.loadError = '';
+      try {
+        const res = await fetch('data/snapshot-latest.json?v=' + Date.now());
+        if (!res.ok) throw new Error('HTTP ' + res.status + ' fetching snapshot');
+        const data = await res.json();
+        this.watchlists = data.watchlists;
+        this.updated = 'As of ' + data.as_of_date;
+      } catch (e) {
+        this.loadError = 'Failed to load snapshot: ' + e.message + '. Pull to refresh.';
+      } finally {
+        this.loading = false;
+      }
     },
 
     get filteredWatchlists() {
