@@ -3356,9 +3356,9 @@
           "two_hundred_day_avg": 47.42925,
           "price_vs_200dma_pct": 8.62,
           "fcf_yield_pct": -3.83,
-          "return_1y_pct": NaN,
-          "return_3y_pct": NaN,
-          "return_5y_pct": NaN,
+          "return_1y_pct": null,
+          "return_3y_pct": null,
+          "return_5y_pct": null,
           "top_5_holders": [
             {
               "holder": "Pacer Advisors, Inc.",
@@ -3653,9 +3653,9 @@
           "two_hundred_day_avg": 7.680415,
           "price_vs_200dma_pct": 19.92,
           "fcf_yield_pct": 7.8,
-          "return_1y_pct": NaN,
-          "return_3y_pct": NaN,
-          "return_5y_pct": NaN,
+          "return_1y_pct": null,
+          "return_3y_pct": null,
+          "return_5y_pct": null,
           "top_5_holders": [
             {
               "holder": "Pacer Advisors, Inc.",

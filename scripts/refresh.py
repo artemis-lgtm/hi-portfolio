@@ -145,8 +145,20 @@ def main():
         snapshot["watchlists"].append(wl_out)
 
     HISTORY_DIR.mkdir(parents=True, exist_ok=True)
-    LATEST.write_text(json.dumps(snapshot, indent=2, default=str))
-    (HISTORY_DIR / f"{today}.json").write_text(json.dumps(snapshot, indent=2, default=str))
+    def _clean(obj):
+        # yfinance returns numpy NaN / Inf which Python's json writes as bare
+        # tokens (invalid per RFC 8259). Coerce to None so browsers can parse.
+        import math
+        if isinstance(obj, float):
+            return None if (math.isnan(obj) or math.isinf(obj)) else obj
+        if isinstance(obj, dict):
+            return {k: _clean(v) for k, v in obj.items()}
+        if isinstance(obj, list):
+            return [_clean(v) for v in obj]
+        return obj
+    cleaned = _clean(snapshot)
+    LATEST.write_text(json.dumps(cleaned, indent=2, default=str, allow_nan=False))
+    (HISTORY_DIR / f"{today}.json").write_text(json.dumps(cleaned, indent=2, default=str, allow_nan=False))
     print(f"\nWrote {LATEST}")
     print(f"Wrote {HISTORY_DIR / (today + '.json')}")
 
